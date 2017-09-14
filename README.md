@@ -1,6 +1,8 @@
 # MathCompiler
 a three pass math compiler
 
+Demo: http://nirsmadar.github.io/mathCompiler/
+
 The MathCompiler is a calculator that calcultes mathametical expressions. The cool thing about it is how the expressions are processed:
 1. Tokenizing the expression into  { type, value } tokens
 2. Building an abstract syntax tree out of those tokens
